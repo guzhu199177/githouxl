@@ -1,0 +1,207 @@
+[ 2015-05-17T09:47:22+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023847s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [2] Missing argument 1 for Think\MyController::login(), called in E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php on line 10 and defined E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 30 行.
+NOTIC: [8] Undefined index: uname E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106589s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106712s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015879s ]
+
+[ 2015-05-17T09:47:26+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [2] Missing argument 1 for Think\MyController::login(), called in E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php on line 10 and defined E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 30 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+
+[ 2015-05-17T09:47:30+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.3518s ]
+SQL: SELECT * FROM `course` LIMIT 0,10   [ RunTime:0.0243s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 30 行.
+NOTIC: [8] Undefined index: query E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Org\Util\MyPager.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021558s ]
+
+[ 2015-05-17T09:47:30+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `course` LIMIT 0,10   [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 30 行.
+NOTIC: [8] Undefined index: query E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Org\Util\MyPager.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2015-05-17T09:47:36+08:00 ] ::1 /study/thinkphp/index.php/home/student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\StudentModel.class.php 第 6 行.
+SQL: SHOW COLUMNS FROM `stu_table` [ RunTime:0.0973s ]
+SQL: SELECT * FROM `stu_table` LIMIT 0,10   [ RunTime:0.0017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `stu_table` LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\StudentModel.class.php 第 21 行.
+NOTIC: [8] Undefined index: query E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Org\Util\MyPager.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2015-05-17T10:51:03+08:00 ] ::1 /study/thinkphp/index.php/home/student/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\StudentModel.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001053s ]
+
+[ 2015-05-17T10:51:07+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `course` LIMIT 0,10   [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: page E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 30 行.
+NOTIC: [8] Undefined index: query E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Org\Util\MyPager.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2015-05-17T10:51:08+08:00 ] ::1 /study/thinkphp/index.php/home/test/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Think\MyController::login() should be compatible with Think\Controller::login() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 38 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\MyController.class.php 第 4 行.
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Model\ScoreModel.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+

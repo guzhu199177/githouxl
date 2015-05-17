@@ -1,0 +1,1815 @@
+[ 2015-04-20T09:33:46+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003703s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0403s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010394s ]
+
+[ 2015-04-20T11:34:32+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009956s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2015-04-20T14:51:49+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003102s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077830s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001555s ]
+
+[ 2015-04-20T14:51:51+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001581s ]
+
+[ 2015-04-20T14:51:56+08:00 ] ::1 /study/thinkphp/index.php/home/test/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2015-04-20T19:31:31+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2015-04-20T22:16:50+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0265s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.181726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.181843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001726s ]
+
+[ 2015-04-20T22:17:22+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0431s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000988s ]
+
+[ 2015-04-20T22:17:44+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0426s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002408s ]
+
+[ 2015-04-20T22:18:08+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001791s ]
+
+[ 2015-04-20T22:19:57+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001421s ]
+
+[ 2015-04-20T22:22:49+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001102s ]
+
+[ 2015-04-20T22:23:47+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2015-04-20T22:24:18+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002097s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2015-04-20T22:24:20+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001429s ]
+
+[ 2015-04-20T22:24:40+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2015-04-20T22:36:15+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 84 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2015-04-20T22:40:15+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003582s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0362s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2015-04-20T22:40:19+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2015-04-20T22:41:08+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002898s ]
+
+[ 2015-04-20T22:42:00+08:00 ] ::1 /study/thinkphp/index.php/home/test/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001359s ]
+
+[ 2015-04-20T22:44:07+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0701s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2015-04-20T22:44:17+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=$vo.stu_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2015-04-20T22:45:05+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2015-04-20T22:45:08+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003192s ]
+
+[ 2015-04-20T22:45:50+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004399s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2015-04-20T22:56:28+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-04-20T22:58:20+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000926s ]
+
+[ 2015-04-20T22:58:30+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=Arraystu_name
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001966s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001412s ]
+
+[ 2015-04-20T22:59:44+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001720s ]
+
+[ 2015-04-20T23:01:20+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-04-20T23:01:38+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001217s ]
+
+[ 2015-04-20T23:02:40+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002232s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2015-04-20T23:03:06+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0241s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 34 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2015-04-20T23:04:01+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-04-20T23:04:45+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001956s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002784s ]
+
+[ 2015-04-20T23:05:59+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 33 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2015-04-20T23:06:12+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001164s ]
+
+[ 2015-04-20T23:06:30+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2015-04-20T23:06:45+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2015-04-20T23:07:30+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+
+[ 2015-04-20T23:09:33+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0440s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+
+[ 2015-04-20T23:09:48+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Use of undefined constant stu_name - assumed 'stu_name' E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\study\thinkphp\Apps\Runtime\Cache\Home\9dba508c3b103513f46a4443aa43e515.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002516s ]
+
+[ 2015-04-20T23:10:18+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0268s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001481s ]
+
+[ 2015-04-20T23:10:44+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2015-04-20T23:10:59+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000430s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001195s ]
+
+[ 2015-04-20T23:11:03+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2015-04-20T23:11:19+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001337s ]
+
+[ 2015-04-20T23:13:06+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001008s ]
+
+[ 2015-04-20T23:13:10+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=%E6%9D%8E%E5%9B%9B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2015-04-20T23:14:05+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=%E6%9D%8E%E5%9B%9B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2015-04-20T23:14:09+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004359s ]
+
+[ 2015-04-20T23:14:30+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001301s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0374s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2015-04-20T23:14:35+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001399s ]
+
+[ 2015-04-20T23:17:38+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2015-04-20T23:17:42+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002127s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-04-20T23:18:42+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2015-04-20T23:18:44+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E5%BC%A0%E4%B8%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001177s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-04-20T23:19:09+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2015-04-20T23:19:12+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E6%9D%8E%E5%9B%9B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002261s ]
+
+[ 2015-04-20T23:20:16+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+
+[ 2015-04-20T23:20:39+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001179s ]
+
+[ 2015-04-20T23:20:43+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E8%B5%B5%E4%B8%80%E4%BA%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2015-04-20T23:22:17+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-04-20T23:22:30+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E5%BC%A01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2015-04-20T23:23:24+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E5%BC%A01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001743s ]
+
+[ 2015-04-20T23:23:28+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001505s ]
+
+[ 2015-04-20T23:23:32+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=%E7%8E%8B%E4%BA%94
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2015-04-20T23:26:37+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2015-04-20T23:33:19+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2015-04-20T23:33:24+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002631s ]
+
+[ 2015-04-20T23:34:06+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2015-04-20T23:34:08+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 92 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001100s ]
+
+[ 2015-04-20T23:34:42+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+
+[ 2015-04-20T23:34:44+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 92 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002617s ]
+
+[ 2015-04-20T23:34:50+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=12334
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002808s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 92 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+
+[ 2015-04-20T23:35:09+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 92 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002726s ]
+
+[ 2015-04-20T23:35:12+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0827s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001512s ]
+
+[ 2015-04-20T23:35:14+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002316s ]
+
+[ 2015-04-20T23:35:34+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001374s ]
+
+[ 2015-04-20T23:35:37+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete?name=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 84 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001936s ]
+
+[ 2015-04-20T23:35:39+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=12331
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002030s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2015-04-20T23:36:09+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001665s ]
+
+[ 2015-04-20T23:36:10+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete?name=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002951s ]
+NOTIC: [8] Undefined index: stu_name E:\xampp\htdocs\study\thinkphp\Apps\Home\Controller\TestController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001293s ]
+
+[ 2015-04-20T23:36:13+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?name=12331
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002641s ]
+
+[ 2015-04-20T23:36:55+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002757s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0343s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002079s ]
+
+[ 2015-04-20T23:36:58+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002045s ]
+
+[ 2015-04-20T23:37:01+08:00 ] ::1 /study/thinkphp/index.php/home/test/update?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002272s ]
+
+[ 2015-04-20T23:42:12+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001171s ]
+
+[ 2015-04-20T23:42:13+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete?id=12332
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0121s ]
+SQL: DELETE FROM `course` WHERE `stu_id` = 12332 [ RunTime:0.0382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-04-20T23:42:19+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2015-04-20T23:43:00+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004832s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2015-04-20T23:43:03+08:00 ] ::1 /study/thinkphp/index.php/home/test/delete?id=12331
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002143s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0714s ]
+SQL: DELETE FROM `course` WHERE `stu_id` = 12331 [ RunTime:0.0523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2015-04-20T23:43:09+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `course`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001401s ]
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.dltk.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>E:/xampp/htdocs/houxl/.metadata/.plugins/com.zend.php.core/__language__/1ceb263e</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>E:/xampp/htdocs/houxl/.metadata/.plugins/org.eclipse.php.core/__language__/5f704a8b</location>
+		</link>
+		<link>
+			<name>.link5</name>
+			<type>2</type>
+			<location>E:/xampp/htdocs/houxl/.metadata/.plugins/com.zend.php.core/__language__/9974f27b</location>
+		</link>
+		<link>
+			<name>.link7</name>
+			<type>2</type>
+			<location>E:/xampp/htdocs/houxl/.metadata/.plugins/org.zend.php.framework.resource/resources/ZendFramework-1/library</location>
+		</link>
+		<link>
+			<name>.link9</name>
+			<type>2</type>
+			<location>E:/zend/plugins/com.zend.php.phpunit_11.0.2.v20140926-0202/resources/vendor/phpunit/phpunit</location>
+		</link>
+	</linkedResources>
+</projectDescription>

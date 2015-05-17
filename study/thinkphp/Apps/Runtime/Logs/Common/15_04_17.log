@@ -1,0 +1,964 @@
+[ 2015-04-17T09:53:31+08:00 ] ::1 /houxl/thinkphp/apps/home/index.php/testController
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001821s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:53:38+08:00 ] ::1 /houxl/thinkphp/apps/home/index.php/testController.class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:57:37+08:00 ] ::1 /houxl/thinkphp/apps/home/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:58:00+08:00 ] ::1 /houxl/thinkphp/Apps/home/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:58:03+08:00 ] ::1 /houxl/thinkphp/Apps/home/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:58:09+08:00 ] ::1 /houxl/thinkphp/Apps/Home/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:59:11+08:00 ] ::1 /houxl/thinkphp/Apps/Home/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T09:59:53+08:00 ] ::1 /houxl/thinkphp/Apps/Home/Controller/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Apps
+
+[ 2015-04-17T10:06:13+08:00 ] ::1 /houxl/thinkphp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:07:17+08:00 ] ::1 /houxl/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:13:09+08:00 ] ::1 /houxl/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:13:17+08:00 ] ::1 /houxl/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Index
+
+[ 2015-04-17T10:13:26+08:00 ] ::1 /houxl/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:15:32+08:00 ] ::1 /houxl/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:15:36+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:15:39+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:15:48+08:00 ] ::1 /houxl/thinkphp/index.php/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:15:52+08:00 ] ::1 /houxl/thinkphp/index.php/test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:15:56+08:00 ] ::1 /houxl/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:16:21+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:16:59+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:16:59+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:00+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:00+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:00+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:00+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:00+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:01+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001719s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:02+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:02+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:51+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:52+08:00 ] ::1 /houxl/thinkphp/test.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Test.php
+
+[ 2015-04-17T10:17:55+08:00 ] ::1 /houxl/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:17:57+08:00 ] ::1 /houxl/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:21:47+08:00 ] ::1 /houxl/thinkphp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:21:55+08:00 ] ::1 /houxl/thinkphp/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T10:22:04+08:00 ] ::1 /houxl/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:31:02+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2015-04-17T11:32:04+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:32:54+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-04-17T11:32:55+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2015-04-17T11:33:15+08:00 ] ::1 /study/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-04-17T11:42:07+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-04-17T11:42:08+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2015-04-17T11:42:08+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-04-17T11:42:09+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2015-04-17T11:42:09+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2015-04-17T11:42:09+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2015-04-17T11:42:09+08:00 ] ::1 /study/thinkphp/index.php/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2015-04-17T11:43:17+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:18+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:18+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:18+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:18+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:19+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:20+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:43:46+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:43:47+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:43:48+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:43:48+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:43:48+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:43:55+08:00 ] ::1 /study/thinkphp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:44:00+08:00 ] ::1 /study/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE' E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 141 行.
+
+[ 2015-04-17T11:44:20+08:00 ] ::1 /study/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2015-04-17T11:44:35+08:00 ] ::1 /study/thinkphp/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-04-17T11:44:44+08:00 ] ::1 /study/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-04-17T11:44:46+08:00 ] ::1 /study/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2015-04-17T11:44:54+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-04-17T11:45:09+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+
+[ 2015-04-17T11:45:29+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2015-04-17T11:48:04+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2015-04-17T11:48:06+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-04-17T11:48:20+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:33+08:00 ] ::1 /study/thinkphp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:40+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:41+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:41+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Test
+
+[ 2015-04-17T11:48:56+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-04-17T11:48:57+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-04-17T11:48:57+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2015-04-17T11:48:57+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-04-17T11:48:58+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-04-17T11:51:01+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001414s ]
+
+[ 2015-04-17T11:51:48+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-04-17T11:51:49+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2015-04-17T11:51:53+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-04-17T11:53:14+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2015-04-17T11:53:15+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-04-17T11:54:11+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2015-04-17T11:55:25+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2015-04-17T11:55:26+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2015-04-17T11:55:26+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-04-17T11:55:27+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-04-17T11:55:27+08:00 ] ::1 /study/thinkphp/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2015-04-17T11:55:32+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-04-17T11:55:34+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-04-17T11:56:25+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-04-17T11:56:26+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2015-04-17T11:56:29+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-04-17T11:56:55+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:56:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:57:00+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-04-17T11:57:04+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+
+[ 2015-04-17T11:57:09+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:57:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:57:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:58:00+08:00 ] ::1 /study/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2015-04-17T11:58:06+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:58:10+08:00 ] ::1 /study/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:58:15+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:58:15+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-04-17T11:58:27+08:00 ] ::1 /study/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-04-17T11:58:29+08:00 ] ::1 /study/thinkphp/test.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2015-04-17T11:58:36+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T11:58:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2015-04-17T11:58:55+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2015-04-17T11:58:56+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2015-04-17T11:58:59+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2015-04-17T11:59:01+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2015-04-17T12:00:04+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-04-17T12:00:04+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2015-04-17T12:03:46+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:03:46+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:03:51+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2015-04-17T12:04:23+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:54+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:54+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:55+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:55+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:55+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:56+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 321 行.
+
+[ 2015-04-17T12:12:58+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-04-17T12:14:10+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-04-17T12:14:11+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-04-17T12:14:14+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-04-17T12:14:18+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2015-04-17T12:47:16+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+NOTIC: [8] Undefined index: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 320 行.
+
+[ 2015-04-17T12:47:20+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2015-04-17T12:55:37+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2015-04-17T12:55:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-04-17T12:55:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-04-17T12:55:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2015-04-17T12:55:39+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+
+[ 2015-04-17T12:55:40+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-04-17T12:55:54+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Undefined variable: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 320 行.
+
+[ 2015-04-17T12:55:55+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Undefined variable: m E:\xampp\htdocs\study\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php 第 320 行.
+
+[ 2015-04-17T12:59:09+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2015-04-17T12:59:10+08:00 ] ::1 /study/thinkphp/index.php/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2015-04-17T13:03:08+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2015-04-17T13:03:10+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2015-04-17T13:03:19+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-04-17T13:03:25+08:00 ] ::1 /study/thinkphp/index.php/home/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Home
+
+[ 2015-04-17T13:03:33+08:00 ] ::1 /study/thinkphp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Home
+
+[ 2015-04-17T13:03:51+08:00 ] ::1 /study/thinkphp/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Index
+
+[ 2015-04-17T13:03:57+08:00 ] ::1 /study/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+ERR: 无法加载模块:Index
+
+[ 2015-04-17T13:04:01+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Home
+
+[ 2015-04-17T13:04:25+08:00 ] ::1 /study/thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-04-17T13:04:46+08:00 ] ::1 /study/thinkphp/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Index
+
